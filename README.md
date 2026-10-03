@@ -30,6 +30,13 @@ Kernel commands: `HiPE` (launch the GUI), `help`, `ver`, `cls`, `exit`.
 
 The desktop includes: Explorer, Notepad, Calculator, Terminal, Task Manager, Gallery, Snake and Settings (desktop background and accent color).
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2e1a0603-d800-4142-addc-2a76f2e94958" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9da5adf5-ea72-4617-a2e3-bc8437bf42ea" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7e977026-86d2-4163-bd40-73aa1e08c5bb" />
+
+
 # Hi19 OS Russian
 
 Мини-операционная среда на Python с консольным ядром и графической оболочкой HiPE. При запуске ядро предлагает выбрать язык интерфейса (русский или английский), и этот язык передаётся в графическую оболочку.
@@ -61,3 +68,9 @@ The desktop includes: Explorer, Notepad, Calculator, Terminal, Task Manager, Gal
 Команды ядра: `HiPE` (запуск графики), `help`, `ver`, `cls`, `exit`.
 
 В графической оболочке: Проводник, Блокнот, Калькулятор, Терминал, Диспетчер, Галерея, Змейка и Настройки (фон рабочего стола и цвет акцента).
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d600ccca-4d83-481e-b91a-9d02bf88a00c" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/47f749de-0c7e-41ee-b8b9-952513d8d70b" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/782fa685-c716-4993-b6da-a33b22dfc730" />
